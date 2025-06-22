@@ -50,13 +50,13 @@ O projeto segue uma estrutura modular inspirada no padrão MVC:
     **`.env.example`**
     ```
     PORT=5000
-    MONGO_URI=sua_string_de_conexao_com_o_mongodb_atlas
+    MONGO_URI=mongodb+srv://brunomopereira15:EC1jIWKqqdtXOXH5@cluster0.yzuf8t7.mongodb.net/
 
     # Crie uma conta de teste no Ethereal: [https://ethereal.email/](https://ethereal.email/)
-    EMAIL_HOST=smtp.ethereal.email
+    EMAIL_HOST=brunomopereira15@gmail.com
     EMAIL_PORT=587
-    EMAIL_USER=seu_usuario_ethereal
-    EMAIL_PASS=sua_senha_ethereal
+    EMAIL_USER=pereiramoreirabruno@gmail.com
+    EMAIL_PASS=12345
     ```
 
 4.  **Execute o servidor em modo de desenvolvimento:**
